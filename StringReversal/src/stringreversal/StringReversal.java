@@ -28,6 +28,8 @@ public class StringReversal {
 			System.out.print(stringToReverseArray[arrayPosition]);
 
 		}
+		
+		scanner.close();
 
 	}
 
